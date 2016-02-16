@@ -1,2 +1,4 @@
 What is the role of art and design in the vision of the Internet of Things and how does this vision change if the things were animals/plants?
+--
+What can we learn from screen-based domesticated online social spaces to build a thing-based social network in the wild?
 
